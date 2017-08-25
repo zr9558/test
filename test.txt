@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib 
 
-
+print(100)
 print(1)
 print(10)
